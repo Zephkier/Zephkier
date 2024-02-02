@@ -1,5 +1,5 @@
 # **Hello World**
-My IGN's Zephkier, so I'm going by that here too... not _quite_ at the stage where I reveal my first and last name on here.
+My IGN's Zephkier, so I'm going by that here too... not _quite_ at the stage where I reveal myself on here.
 
 Currently a student studying CS because I love sitting and typing.
 
