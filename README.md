@@ -8,7 +8,7 @@ No idea what I'm going to focus/pursue, but I _am_ rather interested in Web Deve
 # **Bye World**
 Add me on 👾[Steam](https://steamcommunity.com/id/zephkier/)👾!
 
-I just started working on getting 100% completion and achievements in all my games.
+I just started working on getting 100% completions and achievements in all of my games, so there's that.
 
 <!---
 ![](https://github-readme-stats.vercel.app/api?username=Zephkier&show_icons=true&count_private=true)
