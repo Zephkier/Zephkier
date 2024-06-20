@@ -1,5 +1,5 @@
 # **Hello World**
-My IGN's Zephkier, so I'm going by that here too... not _quite_ at the stage where I reveal myself on here.
+My IGN's Zephkier, so that's a pretty unique way to identify me. If not, Benjamin's cool too.
 
 Currently a student studying CS because I love sitting and typing.
 
