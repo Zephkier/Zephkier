@@ -10,6 +10,6 @@ Currently a student studying CS because I love sitting and typing.
 
 # Bye World
 
-Add me on 👾[Steam](https://steamcommunity.com/id/zephkier/)👾!
+I love to play games, specifically trying to get 100% completions and achievements, so there's that :)
 
-I just started working on getting 100% completions and achievements in all of my games, so there's that.
+[![Steam icon](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/zephkier/)
