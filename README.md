@@ -2,11 +2,11 @@
 
 My IGN's Zephkier, which is a unique way to identify me (I hope). If not, Benjamin's cool too.
 
-Currently a student under UoL BSc CS because I love sitting and typing.
+I'm here because I love sitting and typing.
 
 # Bye World
 
-I love to play games, specifically trying to get 100% completions and achievements, so there's that :)
+I love to play games _(I mean who doesn't?)_ and I'm always trying to get 100% achievements, so there's that :)
 
 [![Steam icon](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/zephkier/)
 
@@ -14,12 +14,12 @@ I love to play games, specifically trying to get 100% completions and achievemen
 
 ## Personal [`git commit` Guidelines](https://www.conventionalcommits.org/en/v1.0.0/)
 
-| Commit prefix                | Rationale                             |
-| ---------------------------- | ------------------------------------- |
-| `first:` (or left unchanged) | Only for the first commit             |
-| `feat:`                      | For new features and its improvements |
-| `fix:`                       | For important changes                 |
-| `chore:`                     | For QOL changes                       |
+| Commit prefix                | Rationale                          |
+| ---------------------------- | ---------------------------------- |
+| `first:` (or left unchanged) | Only for the first commit          |
+| `feat:`                      | For new features or improvements   |
+| `fix:`                       | For bug fixes or important changes |
+| `chore:`                     | For QoL changes                    |
 
 ## GitHub [Alerts](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#alerts)
 
