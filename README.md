@@ -4,10 +4,6 @@ My IGN's Zephkier, which is a unique way to identify me (I hope). If not, Benjam
 
 Currently a student under UoL BSc CS because I love sitting and typing.
 
-![Zephkier's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zephkier&theme=transparent&layout=compact)
-
-<!-- ![Zephkier's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zephkier&theme=transparent&show_icons=true&count_private=true) -->
-
 # Bye World
 
 I love to play games, specifically trying to get 100% completions and achievements, so there's that :)
